@@ -4,6 +4,7 @@ h2 {
     color: rgb(22, 20, 20);
     margin-bottom: 20px;
     transition: color 0.3s ease-in-out; 
+    padding: 20px;
   }
   
   h2:hover {
@@ -12,6 +13,8 @@ h2 {
  
 .card {
   transition: transform 0.3s ease-in-out;
+  padding: 10px; 
+  
 }
 
 .card:hover {
